@@ -1,0 +1,69 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family:'Monserrate', sans-serif;
+}
+
+h3 {
+  font-family:'Monserrate', sans-serif;
+}
+
+.top-container {
+  background-color: #1CD6CE;
+  position: relative;
+  padding-top: 100pxL
+}
+
+.middle-container {
+  background-color: #7B2869;
+  width: 100%;
+  height: 80px;
+}
+.skills{
+  background-color: #FFBABA;
+}
+
+
+.botton-container {
+  background-color: #E9F8F9;
+  width: 100%;
+  height: 100%;
+}
+
+.stud {
+  text-decoration: underline;
+}
+.studying {
+  text-decoration:underline;
+  text-decoration-color: #E98EAD;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
+body{
+    background-color: aqua;
+}
+
+.head{
+    color: blueviolet;
